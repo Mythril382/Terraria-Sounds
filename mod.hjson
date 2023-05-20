@@ -2,7 +2,7 @@ name: terraria-sounds
 displayName: Terraria Sounds
 description: Changes Mindustry sounds to Terraria sounds, no I didn't make them.
 author: Mythril
-version: 0.1
+version: 1.0
 minGameVersion: 144.1
 hidden: true
 repo: Mythril382/Terraria-Sounds
